@@ -1,0 +1,10 @@
+#!/bin/sh
+
+
+#
+#
+#
+cd repo
+tar -czvf assalto.tar.gz assalto
+cd ..
+mv repo/assalto.tar.gz .

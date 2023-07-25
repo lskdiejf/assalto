@@ -1,0 +1,5 @@
+[
+    "repo/assalto/bin/remove-trunk.sh",
+    "repo/assalto/src/write_target_list.py",
+    "repo/assalto/src/cat/make.py"
+]
